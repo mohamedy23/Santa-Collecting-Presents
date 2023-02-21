@@ -1,4 +1,4 @@
-### Code ia found in OpenGL2DTemplate.cpp
+### Code is found in OpenGL2DTemplate.cpp
 
 ========================================================================
     CONSOLE APPLICATION : OpenGL2DTemplate Project Overview
